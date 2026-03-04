@@ -29,3 +29,8 @@ public class ModItems {
         });
     }
 }
+//make a function for item (public static final Item ...)
+//add to group events listed right above
+//add translation to en_us.json
+//copy existing json files and slightly modify with its new name (block, blockstates, item[both])
+// add pngs to texture
